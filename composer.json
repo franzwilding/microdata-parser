@@ -25,7 +25,7 @@
         "lint:fix": "php-cs-fixer fix"
     },
     "require": {
-        "php": "^8.1",
+        "php": "^8.0|^8.1",
         "ext-dom": "*",
         "ext-libxml": "*"
     },
